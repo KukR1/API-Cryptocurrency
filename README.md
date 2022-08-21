@@ -1,5 +1,5 @@
 # Live
-[http://localhost:3000](https://live-crypto-api-currency-nd.netlify.app/)
+[live-crypto-api-currency-nd](https://live-crypto-api-currency-nd.netlify.app/)
 
 # Getting Started with Create React App
 
