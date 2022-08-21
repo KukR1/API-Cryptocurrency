@@ -1,4 +1,4 @@
-# Live
+# Live 🚀
 [live-crypto-api-currency-nd](https://live-crypto-api-currency-nd.netlify.app/)
 
 # Getting Started with Create React App
